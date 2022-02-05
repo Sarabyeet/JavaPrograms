@@ -6,4 +6,5 @@ Some Java Programs that I wrote for practice
 3. A simple Stop watch program.
 4. A Login system with Hashmaps.
 5. A Clock app with SimpleDateFormat.
-6. A Calculator GUI
+6. A Calculator GUI.
+7. A TicTacToe Game.
